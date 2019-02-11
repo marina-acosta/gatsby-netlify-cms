@@ -24,7 +24,7 @@ organizers:
   gallery:
     - image: /img/organizer-1.jpg
       imageAlt: Tom Cruise
-      name: Tom Cruise
+      name: El esqui
     - image: /img/organizer-2.jpg
       imageAlt: Tom Hanks
       name: Tom Hanks
